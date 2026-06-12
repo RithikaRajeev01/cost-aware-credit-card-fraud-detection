@@ -1,4 +1,16 @@
 # Cost-Aware Credit Card Fraud Detection using XGBoost
+> Recover up to 89.9% more fraudulent transaction value under constrained investigation budgets using a cost-aware ranking strategy.
+
+## Project Workflow
+
+Data Exploration
+→ Missing Value Investigation
+→ Feature Reduction
+→ XGBoost Training
+→ Threshold Optimization
+→ LossScore Ranking
+→ SHAP Explainability
+→ Business Impact Evaluation
 
 ## Overview
 
