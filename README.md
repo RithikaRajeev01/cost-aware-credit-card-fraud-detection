@@ -168,7 +168,21 @@ Under a constrained review budget of only 100 investigations, the LossScore rank
 These results demonstrate that incorporating financial impact into transaction prioritization can significantly improve fraud-loss recovery without increasing analyst workload.
 
 ---
+## Key Visualizations
 
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+### SHAP Explainability
+
+![SHAP Summary](images/shap_summary.png)
+
+### Business Impact
+
+![Business Impact](images/business_impact.png)
+
+---
 ## Explainability with SHAP
 
 SHAP (SHapley Additive Explanations) was used to improve model transparency and understand the factors driving fraud predictions.
